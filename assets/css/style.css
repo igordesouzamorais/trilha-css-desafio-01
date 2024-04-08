@@ -4,7 +4,7 @@
 
 * {
     box-sizing: border-box;
-    font-family: "Raleway";
+    font-family: Raleway;
 }
 
 body {
@@ -16,7 +16,7 @@ body {
     width: 100%;
     height: 600px;
     border-bottom: solid 1px #33a8db;
-    background-image: 
+    background-image: /*retirado do exemplo final pois o figma nao esta com os valores igual o do exemplo*/
         linear-gradient(
             rgba(0, 0, 0, .6), 
             rgba(49, 168, 221, .2), 
@@ -209,7 +209,7 @@ footer {
 
 footer img {
     display: block;
-    margin: 4rem auto 0;
+    margin: 5rem auto 0;
 }
 
 footer p {
