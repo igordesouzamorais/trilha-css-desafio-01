@@ -158,3 +158,37 @@ button {
     text-transform: lowercase;
     filter: drop-shadow(3px 2px rgb(51, 168, 219));
 }
+
+/***********professional-challenges***********/
+
+#professional-challenges {
+    width: 100%;
+}
+
+#professional-challenges h2 {
+    width: 746px;
+    margin: 100px auto 50px;
+
+    font-family: Raleway;
+    font-size: 2rem; /*32px*/
+    font-weight: 700;
+    letter-spacing: 0.19rem;
+    text-align: center;
+    color: #33A8DB;
+    text-transform: uppercase;
+}
+
+#professional-challenges img {
+    display: block;
+    margin: 0 auto;
+}
+
+#professional-challenges p {
+    font-family: Raleway;
+    color: white;
+    width: 792px;
+    text-align: center;
+    font-size: 1rem;
+    margin: 2rem auto 100px;
+    font-weight: 400;    
+}
